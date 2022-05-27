@@ -1,4 +1,8 @@
-### Hi there 👋
+### hello world 👽
+
+I'm Yulian, a web/mobile developer from NYC, pursuing an MS in Computer Science at NYU. My current interests include interface design and artifical intelligence.
+
+Check out some of my work at [yulian.codes](https://yulian.codes)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykray&hide=CMake,C,Makefile,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
