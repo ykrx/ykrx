@@ -1,4 +1,7 @@
-[![Hi, I'm Yulian](/assets/images/header.gif)](https://yulian.codes)
+<!-- [![Hi, I'm Yulian](/assets/images/header.gif)](https://yulian.codes)
+ -->
+[![introduction](/assets/images/header.gif))](https://yulian.codes)
+
 
 I'm Yulian, a web/mobile developer from NYC, pursuing an MS in Computer Science at NYU. My current interests include interface design and artificial intelligence.
 
