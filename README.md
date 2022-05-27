@@ -1,5 +1,3 @@
-<!-- [![Hi, I'm Yulian](/assets/images/header.gif)](https://yulian.codes)
- -->
 [![introduction](/assets/images/header.gif))](https://yulian.codes)
 
 
