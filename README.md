@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykray&hide=CMake,C,Makefile,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ykray/ykray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
