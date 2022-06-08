@@ -1,4 +1,4 @@
-[![Hello, I'm Yulian](/assets/images/header-new.png)](https://yulian.codes)
+[![Hello, I'm Yulian](/assets/images/header.png)](https://yulian.codes)
 
 I'm Yulian, a web & mobile developer from NYC, pursuing an MS in Computer Science at New York University.<br/>
 Currently interested in interface design and artificial intelligence.
