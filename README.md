@@ -9,23 +9,23 @@ Check out some of my work at [yulian.codes](https://yulian.codes)
 
 ### 🔨 I build with
 
-![React](https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=nodedotjs&logoColor=afff6f)
+![React](https://img.shields.io/badge/React-292f37?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-292f37?style=for-the-badge&logo=nodedotjs&logoColor=afff6f)
 
 ### 🧑🏼‍💻 I write in
 
-![Typescript](https://img.shields.io/badge/TypeScript-555555?style=for-the-badge&logo=typescript&logoColor=4b9cff)
-![Javascript](https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=ffd74b)
-![Python](https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=4b9cff)
-![C++](https://img.shields.io/badge/C%2B%2B-555555?style=for-the-badge&logo=c%2B%2B&logoColor=4bc6ff)
-![Sass](https://img.shields.io/badge/Sass-555555?style=for-the-badge&logo=sass&logoColor=ff85de)
+![Typescript](https://img.shields.io/badge/TypeScript-292f37?style=for-the-badge&logo=typescript&logoColor=4b9cff)
+![Javascript](https://img.shields.io/badge/JavaScript-292f37?style=for-the-badge&logo=javascript&logoColor=ffd74b)
+![Python](https://img.shields.io/badge/Python-292f37?style=for-the-badge&logo=python&logoColor=4b9cff)
+![C++](https://img.shields.io/badge/C%2B%2B-292f37?style=for-the-badge&logo=c%2B%2B&logoColor=4bc6ff)
+![Sass](https://img.shields.io/badge/Sass-292f37?style=for-the-badge&logo=sass&logoColor=ff85de)
 
 ### 💻 I use
 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-555555?style=for-the-badge&logo=visual%20studio%20code&logoColor=4bb5ff)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-555555?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=4b9cff)
-![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-555555?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD)
-![Sketch](https://img.shields.io/badge/Sketch-555555?style=for-the-badge&logo=sketch&logoColor=ffbf5b)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-292f37?style=for-the-badge&logo=visual%20studio%20code&logoColor=4bb5ff)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-292f37?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=4b9cff)
+![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-292f37?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD)
+![Sketch](https://img.shields.io/badge/Sketch-292f37?style=for-the-badge&logo=sketch&logoColor=ffbf5b)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=ykray&color=4b9cff&style=for-the-badge)
 
