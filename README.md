@@ -1,13 +1,37 @@
 [![Hello, I'm Yulian](/assets/images/header.png)](https://yulian.codes)
 
+<!-- <span style="padding-left: 7px;"></span> -->
+
 I'm Yulian, a web & mobile developer from NYC, pursuing an MS in Computer Science at New York University.<br/>
 Currently interested in interface design and artificial intelligence.
 
 Check out some of my work at [yulian.codes](https://yulian.codes)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykray&layout=compact&hide=CMake,C,Makefile,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
+### 🔨 I build with
 
-![GitHub Views](https://komarev.com/ghpvc/?username=ykray&color=219eed)
+![React](https://img.shields.io/badge/React-242a40?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-242a40?style=for-the-badge&logo=nodedotjs&logoColor=afff6f)
+
+### 🧑🏼‍💻 I write in
+
+![Typescript](https://img.shields.io/badge/TypeScript-242a40?style=for-the-badge&logo=typescript&logoColor=4b9cff)
+![Javascript](https://img.shields.io/badge/JavaScript-242a40?style=for-the-badge&logo=javascript&logoColor=ffd74b)
+![Python](https://img.shields.io/badge/Python-242a40?style=for-the-badge&logo=python&logoColor=4b9cff)
+![C++](https://img.shields.io/badge/C%2B%2B-242a40?style=for-the-badge&logo=c%2B%2B&logoColor=4bc6ff)
+![Sass](https://img.shields.io/badge/Sass-242a40?style=for-the-badge&logo=sass&logoColor=ff85de)
+
+### 💻 I use
+
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-242a40?style=for-the-badge&logo=visual%20studio%20code&logoColor=4bb5ff)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-242a40?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=4b9cff)
+![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-242a40?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD)
+![Sketch](https://img.shields.io/badge/Sketch-242a40?style=for-the-badge&logo=sketch&logoColor=ffbf5b)
+
+### Find me on
+
+![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=Yulian.codes&logoColor=white)
+
+![GitHub Views](https://komarev.com/ghpvc/?username=ykray&color=4b9cff&style=for-the-badge)
 
 <!--
 **ykray/ykray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
