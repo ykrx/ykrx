@@ -5,7 +5,7 @@ Currently interested in interface design and artificial intelligence.
 
 Check out some of my work at [yulian.codes](https://yulian.codes)
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=ykray&color=ff6245)]
+![GitHub Views](https://komarev.com/ghpvc/?username=ykray&color=ff24f2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykray&layout=compact&hide=CMake,C,Makefile,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
