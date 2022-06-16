@@ -27,7 +27,9 @@ Check out some of my work at [yulian.codes](https://yulian.codes)
 ![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-292f37?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD)
 ![Sketch](https://img.shields.io/badge/Sketch-292f37?style=for-the-badge&logo=sketch&logoColor=ffbf5b)
 
-![GitHub Views](https://komarev.com/ghpvc/?username=ykray&color=4b9cff&style=for-the-badge)
+<br/>
+
+![GitHub Views](https://komarev.com/ghpvc/?username=ykray&color=292f37&style=for-the-badge)
 
 <!--
 **ykray/ykray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
