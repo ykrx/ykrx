@@ -27,10 +27,6 @@ Check out some of my work at [yulian.codes](https://yulian.codes)
 ![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-242a40?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD)
 ![Sketch](https://img.shields.io/badge/Sketch-242a40?style=for-the-badge&logo=sketch&logoColor=ffbf5b)
 
-### Find me on
-
-![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=Yulian.codes&logoColor=white)
-
 ![GitHub Views](https://komarev.com/ghpvc/?username=ykray&color=4b9cff&style=for-the-badge)
 
 <!--
