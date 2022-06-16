@@ -11,7 +11,7 @@ Currently interested in interface design and artificial intelligence.
 
 <div align="center">
   <a href="https://yulian.codes"><img height="30" src="./assets/images/site-badge.png" style="float: left; margin-right: 4px" /></a>
-  <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="float: left" />
+  <a href="https://www.linkedin.com/in/yulian-kraynyak/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="float: left" /></a>
 </div>
 
 <br/>
