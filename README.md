@@ -16,7 +16,6 @@ Currently interested in interface design and artificial intelligence.
 
 <br/>
 <br/>
-<br/>
 
 ### 🔨 I build with
 
@@ -36,11 +35,13 @@ Currently interested in interface design and artificial intelligence.
 
 ### 💻 I use
 
-<img src="https://img.shields.io/badge/VSCode-292f37?style=for-the-badge&logo=visual%20studio%20code&logoColor=4bb5ff" />
-<img src="https://img.shields.io/badge/Photoshop-292f37?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=4b9cff" />
-<img src="https://img.shields.io/badge/after%20affects-292f37?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD" />
-<img src="https://img.shields.io/badge/Adobe%20XD-292f37?style=for-the-badge&logo=Adobe%20XD&logoColor=ff7cf1" />
-<img src="https://img.shields.io/badge/Sketch-292f37?style=for-the-badge&logo=sketch&logoColor=ffca28" />
+<div align="left">
+  <img src="https://img.shields.io/badge/VSCode-292f37?style=for-the-badge&logo=visual%20studio%20code&logoColor=4bb5ff" />
+  <img src="https://img.shields.io/badge/Photoshop-292f37?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=4b9cff" />
+  <img src="https://img.shields.io/badge/after%20affects-292f37?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-292f37?style=for-the-badge&logo=Adobe%20XD&logoColor=ff7cf1" />
+  <img src="https://img.shields.io/badge/Sketch-292f37?style=for-the-badge&logo=sketch&logoColor=ffca28" />
+</div>
 
 <br/>
 <br/>
