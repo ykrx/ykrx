@@ -29,8 +29,6 @@ Currently interested in interface design and artificial intelligence.
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-292f37?style=for-the-badge&logo=Adobe%20XD&logoColor=ff7cf1)
 ![Sketch](https://img.shields.io/badge/Sketch-292f37?style=for-the-badge&logo=sketch&logoColor=ffca28)
 
-<br/>
-
 ## Find me on
 
 <p align="left">
