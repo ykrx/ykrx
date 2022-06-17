@@ -11,6 +11,7 @@ Currently interested in interface design and artificial intelligence.
 ![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=4acc03)
 ![Express](https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=black)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=1464ae)
+![Azure](https://img.shields.io/badge/azure-ffffff?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6)
 ![Firebase](https://img.shields.io/badge/firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=f9be1d)
 ![MUI](https://img.shields.io/badge/Material%20UI-ffffff?style=for-the-badge&logo=mui&logoColor=309afc)
 ![Sass](https://img.shields.io/badge/Sass-ffffff?style=for-the-badge&logo=sass&logoColor=f887ff)
@@ -24,15 +25,15 @@ Currently interested in interface design and artificial intelligence.
 
 ### I use
 
-![VSCode](https://img.shields.io/badge/VSCode-ffffff?style=for-the-badge&logo=visual%20studio%20code&logoColor=4b9cff)
+![VSCode](https://img.shields.io/badge/VS_Code-ffffff?style=for-the-badge&logo=visual%20studio%20code&logoColor=4b9cff)
 ![Photoshop](https://img.shields.io/badge/Photoshop-ffffff?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=309afc)
-![After Effects](https://img.shields.io/badge/after%20affects-ffffff?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=b262f6)
+![After Effects](https://img.shields.io/badge/after%20effects-ffffff?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=b262f6)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-ffffff?style=for-the-badge&logo=Adobe%20XD&logoColor=ff7cf1)
 ![Sketch](https://img.shields.io/badge/Sketch-ffffff?style=for-the-badge&logo=sketch&logoColor=f9be1d)
 
-## Find me on
+### Find me on
 
-<a href="https://yulian.codes"><img height="30" src="./assets/images/site-badge.png" /></a>
+<a href="https://yulian.codes"><img height="29" src="./assets/images/site-badge.png" /></a>
 
 <br/>
 <br/>
