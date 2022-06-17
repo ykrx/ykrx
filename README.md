@@ -7,33 +7,33 @@ Currently interested in interface design and artificial intelligence.
 
 ### I build with
 
-![React](https://img.shields.io/badge/React-eeeff9?style=for-the-badge&logo=react&logoColor=11b4c2)
-![Node.js](https://img.shields.io/badge/Node.js-eeeff9?style=for-the-badge&logo=nodedotjs&logoColor=4acc03)
-![Express](https://img.shields.io/badge/Express.js-eeeff9?style=for-the-badge&logo=express&logoColor=black)
-![Firebase](https://img.shields.io/badge/firebase-eeeff9?style=for-the-badge&logo=firebase&logoColor=f9be1d)
-![MUI](https://img.shields.io/badge/Material%20UI-eeeff9?style=for-the-badge&logo=mui&logoColor=309afc)
-![Sass](https://img.shields.io/badge/Sass-eeeff9?style=for-the-badge&logo=sass&logoColor=f887ff)
+![React](https://img.shields.io/badge/React-edf2f7?style=for-the-badge&logo=react&logoColor=11b4c2)
+![Node.js](https://img.shields.io/badge/Node.js-edf2f7?style=for-the-badge&logo=nodedotjs&logoColor=4acc03)
+![Express](https://img.shields.io/badge/Express.js-edf2f7?style=for-the-badge&logo=express&logoColor=black)
+![Firebase](https://img.shields.io/badge/firebase-edf2f7?style=for-the-badge&logo=firebase&logoColor=f9be1d)
+![MUI](https://img.shields.io/badge/Material%20UI-edf2f7?style=for-the-badge&logo=mui&logoColor=309afc)
+![Sass](https://img.shields.io/badge/Sass-edf2f7?style=for-the-badge&logo=sass&logoColor=f887ff)
 
 ### I write in
 
-![Typescript](https://img.shields.io/badge/TypeScript-eeeff9?style=for-the-badge&logo=typescript&logoColor=309afc)
-![Javascript](https://img.shields.io/badge/JavaScript-eeeff9?style=for-the-badge&logo=javascript&logoColor=f9be1d)
-![Python](https://img.shields.io/badge/Python-eeeff9?style=for-the-badge&logo=python&logoColor=309afc)
-![C++](https://img.shields.io/badge/C%2B%2B-eeeff9?style=for-the-badge&logo=c%2B%2B&logoColor=309afc)
+![Typescript](https://img.shields.io/badge/TypeScript-edf2f7?style=for-the-badge&logo=typescript&logoColor=309afc)
+![Javascript](https://img.shields.io/badge/JavaScript-edf2f7?style=for-the-badge&logo=javascript&logoColor=f9be1d)
+![Python](https://img.shields.io/badge/Python-edf2f7?style=for-the-badge&logo=python&logoColor=309afc)
+![C++](https://img.shields.io/badge/C%2B%2B-edf2f7?style=for-the-badge&logo=c%2B%2B&logoColor=309afc)
 
 ### I use
 
-![VSCode](https://img.shields.io/badge/VSCode-eeeff9?style=for-the-badge&logo=visual%20studio%20code&logoColor=4b9cff)
-![Photoshop](https://img.shields.io/badge/Photoshop-eeeff9?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=309afc)
-![After Effects](https://img.shields.io/badge/after%20affects-eeeff9?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=b262f6)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-eeeff9?style=for-the-badge&logo=Adobe%20XD&logoColor=ff7cf1)
-![Sketch](https://img.shields.io/badge/Sketch-eeeff9?style=for-the-badge&logo=sketch&logoColor=f9be1d)
+![VSCode](https://img.shields.io/badge/VSCode-edf2f7?style=for-the-badge&logo=visual%20studio%20code&logoColor=4b9cff)
+![Photoshop](https://img.shields.io/badge/Photoshop-edf2f7?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=309afc)
+![After Effects](https://img.shields.io/badge/after%20affects-edf2f7?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=b262f6)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-edf2f7?style=for-the-badge&logo=Adobe%20XD&logoColor=ff7cf1)
+![Sketch](https://img.shields.io/badge/Sketch-edf2f7?style=for-the-badge&logo=sketch&logoColor=f9be1d)
 
 ## Find me on
 
 <p align="left">
   <a href="https://yulian.codes"><img height="28" src="./assets/images/site-badge.png" style="float: left; margin-right: 4px" /></a>
-  <a href="https://www.linkedin.com/in/yulian-kraynyak/"><img src="https://img.shields.io/badge/Linkedin-3082fc?style=for-the-badge&logo=linkedin&logoColor=eeeff9" style="float: left" /></a>
+  <a href="https://www.linkedin.com/in/yulian-kraynyak/"><img src="https://img.shields.io/badge/Linkedin-3082fc?style=for-the-badge&logo=linkedin&logoColor=edf2f7" style="float: left" /></a>
 </p>
 
 <br/>
