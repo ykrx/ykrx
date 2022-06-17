@@ -16,7 +16,7 @@ Currently interested in interface design and artificial intelligence.
 
 <br/><br/>
 
-#### 🔨 I build with
+### 🔨 I build with
 
 ![React](https://img.shields.io/badge/React-292f37?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Express.js-292f37?style=for-the-badge&logo=express&logoColor=white)
@@ -24,7 +24,7 @@ Currently interested in interface design and artificial intelligence.
 ![Firebase](https://img.shields.io/badge/firebase-292f37?style=for-the-badge&logo=firebase&logoColor=ffca28)
 ![MUI](https://img.shields.io/badge/Material%20UI-292f37?style=for-the-badge&logo=mui&logoColor=36a8ff)
 
-#### 🧑🏼‍💻 I write in
+### 🧑🏼‍💻 I write in
 
 ![Typescript](https://img.shields.io/badge/TypeScript-292f37?style=for-the-badge&logo=typescript&logoColor=4b9cff)
 ![Javascript](https://img.shields.io/badge/JavaScript-292f37?style=for-the-badge&logo=javascript&logoColor=ffca28)
@@ -32,7 +32,7 @@ Currently interested in interface design and artificial intelligence.
 ![C++](https://img.shields.io/badge/C%2B%2B-292f37?style=for-the-badge&logo=c%2B%2B&logoColor=4bc6ff)
 ![Sass](https://img.shields.io/badge/Sass-292f37?style=for-the-badge&logo=sass&logoColor=ff85de)
 
-#### 💻 I use
+### 💻 I use
 
 ![VSCode](https://img.shields.io/badge/VSCode-292f37?style=for-the-badge&logo=visual%20studio%20code&logoColor=4bb5ff)
 ![Photoshop](https://img.shields.io/badge/Photoshop-292f37?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=4b9cff)
