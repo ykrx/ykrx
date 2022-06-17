@@ -31,7 +31,7 @@ Currently interested in interface design and artificial intelligence.
 
 <br/>
 
-## 👋 Find me on
+## Find me on
 
 <p align="left">
   <a href="https://yulian.codes"><img height="31" src="./assets/images/site-badge.png" style="float: left; margin-right: 4px" /></a>
