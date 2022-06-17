@@ -14,8 +14,6 @@ Currently interested in interface design and artificial intelligence.
   <a href="https://www.linkedin.com/in/yulian-kraynyak/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="float: left" /></a>
 </p>
 
-<br/>
-
 ### 🔨 I build with
 
 ![React](https://img.shields.io/badge/React-292f37?style=for-the-badge&logo=react&logoColor=61DAFB)
