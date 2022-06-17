@@ -10,7 +10,7 @@ Currently interested in interface design and artificial intelligence.
 ### 👋 Find me on
 
 <div align="left">
-  <a href="https://yulian.codes"><img height="30" src="./assets/images/site-badge.png" style="float: left; margin-right: 4px" /></a>
+  <a href="https://yulian.codes"><img height="33" src="./assets/images/site-badge.png" style="float: left; margin-right: 4px" /></a>
   <a href="https://www.linkedin.com/in/yulian-kraynyak/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="float: left" /></a>
 </div>
 
@@ -35,13 +35,11 @@ Currently interested in interface design and artificial intelligence.
 
 ### 💻 I use
 
-<div align="left">
-  <img src="https://img.shields.io/badge/VSCode-292f37?style=for-the-badge&logo=visual%20studio%20code&logoColor=4bb5ff" />
-  <img src="https://img.shields.io/badge/Photoshop-292f37?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=4b9cff" />
-  <img src="https://img.shields.io/badge/after%20affects-292f37?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-292f37?style=for-the-badge&logo=Adobe%20XD&logoColor=ff7cf1" />
-  <img src="https://img.shields.io/badge/Sketch-292f37?style=for-the-badge&logo=sketch&logoColor=ffca28" />
-</div>
+![VSCode](https://img.shields.io/badge/VSCode-292f37?style=for-the-badge&logo=visual%20studio%20code&logoColor=4bb5ff)
+![Photoshop](https://img.shields.io/badge/Photoshop-292f37?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=4b9cff)
+![After Effects](https://img.shields.io/badge/after%20affects-292f37?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-292f37?style=for-the-badge&logo=Adobe%20XD&logoColor=ff7cf1)
+![Sketch](https://img.shields.io/badge/Sketch-292f37?style=for-the-badge&logo=sketch&logoColor=ffca28)
 
 <br/>
 <br/>
