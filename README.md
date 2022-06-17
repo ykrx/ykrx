@@ -7,12 +7,12 @@ Currently interested in interface design and artificial intelligence.
 
 ### I build with
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black)
+![React](https://img.shields.io/badge/React-64f9f4?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-afff6f?style=for-the-badge&logo=nodedotjs&logoColor=black)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![MUI](https://img.shields.io/badge/Material%20UI-36a8ff?style=for-the-badge&logo=mui&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-ff85de?style=for-the-badge&logo=sass&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ff8237?style=for-the-badge&logo=firebase&logoColor=ffd542)
+![MUI](https://img.shields.io/badge/Material%20UI-3591f8?style=for-the-badge&logo=mui&logoColor=77eaff)
+![Sass](https://img.shields.io/badge/Sass-ff61e3?style=for-the-badge&logo=sass&logoColor=white)
 
 ### I write in
 
