@@ -16,18 +16,18 @@ Currently interested in interface design and artificial intelligence.
 
 ### I write in
 
-![Typescript](https://img.shields.io/badge/TypeScript-292f37?style=for-the-badge&logo=typescript&logoColor=4b9cff)
-![Javascript](https://img.shields.io/badge/JavaScript-292f37?style=for-the-badge&logo=javascript&logoColor=ffca28)
-![Python](https://img.shields.io/badge/Python-292f37?style=for-the-badge&logo=python&logoColor=4b9cff)
-![C++](https://img.shields.io/badge/C%2B%2B-292f37?style=for-the-badge&logo=c%2B%2B&logoColor=4bc6ff)
+![Typescript](https://img.shields.io/badge/TypeScript-eeeff9?style=for-the-badge&logo=typescript&logoColor=4b9cff)
+![Javascript](https://img.shields.io/badge/JavaScript-eeeff9?style=for-the-badge&logo=javascript&logoColor=f3b829)
+![Python](https://img.shields.io/badge/Python-eeeff9?style=for-the-badge&logo=python&logoColor=4b9cff)
+![C++](https://img.shields.io/badge/C%2B%2B-eeeff9?style=for-the-badge&logo=c%2B%2B&logoColor=4bc6ff)
 
 ### I use
 
-![VSCode](https://img.shields.io/badge/VSCode-292f37?style=for-the-badge&logo=visual%20studio%20code&logoColor=4bb5ff)
-![Photoshop](https://img.shields.io/badge/Photoshop-292f37?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=4b9cff)
-![After Effects](https://img.shields.io/badge/after%20affects-292f37?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-292f37?style=for-the-badge&logo=Adobe%20XD&logoColor=ff7cf1)
-![Sketch](https://img.shields.io/badge/Sketch-292f37?style=for-the-badge&logo=sketch&logoColor=ffca28)
+![VSCode](https://img.shields.io/badge/VSCode-eeeff9?style=for-the-badge&logo=visual%20studio%20code&logoColor=4b9cff)
+![Photoshop](https://img.shields.io/badge/Photoshop-eeeff9?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=309afc)
+![After Effects](https://img.shields.io/badge/after%20affects-eeeff9?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=b262f6)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-eeeff9?style=for-the-badge&logo=Adobe%20XD&logoColor=ff7cf1)
+![Sketch](https://img.shields.io/badge/Sketch-eeeff9?style=for-the-badge&logo=sketch&logoColor=f9be1d)
 
 ## Find me on
 
