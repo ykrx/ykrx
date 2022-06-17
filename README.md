@@ -32,9 +32,9 @@ Currently interested in interface design and artificial intelligence.
 ## Find me on
 
 <a href="https://yulian.codes"><img height="28" src="./assets/images/site-badge.png" /></a>
-
 <a href="https://www.linkedin.com/in/yulian-kraynyak/"><img src="https://img.shields.io/badge/Linkedin-3082fc?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
 
+<br/>
 <br/>
 
 <a href="#">
