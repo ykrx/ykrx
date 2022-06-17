@@ -39,7 +39,6 @@ Currently interested in interface design and artificial intelligence.
 </p>
 
 <br/>
-<br/>
 
 <a href="#">
 <img src="https://komarev.com/ghpvc/?username=ykray&color=292f37&style=for-the-badge"/>
