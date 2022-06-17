@@ -23,7 +23,7 @@ Currently interested in interface design and artificial intelligence.
 
 ### I use
 
-![VSCode](https://img.shields.io/badge/VSCode-fafcfe?style=for-the-badge&logo=visual%20studio%20code&logoColor=4b9cff)
+![VSCode](https://img.shields.io/badge/VSCode-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=4b9cff)
 ![Photoshop](https://img.shields.io/badge/Photoshop-fafcfe?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=309afc)
 ![After Effects](https://img.shields.io/badge/after%20affects-fafcfe?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=b262f6)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-fafcfe?style=for-the-badge&logo=Adobe%20XD&logoColor=ff7cf1)
