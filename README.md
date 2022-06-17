@@ -7,12 +7,12 @@ Currently interested in interface design and artificial intelligence.
 
 ### I build with
 
-![React](https://img.shields.io/badge/React-77f4ff?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-97f464?style=for-the-badge&logo=nodedotjs&logoColor=black)
+![React](https://img.shields.io/badge/React-eeeff9?style=for-the-badge&logo=react&logoColor=11b4c2)
+![Node.js](https://img.shields.io/badge/Node.js-eeeff9?style=for-the-badge&logo=nodedotjs&logoColor=4acc03)
 ![Express](https://img.shields.io/badge/Express.js-eeeff9?style=for-the-badge&logo=express&logoColor=black)
-![Firebase](https://img.shields.io/badge/firebase-fd9038?style=for-the-badge&logo=firebase&logoColor=ffd542)
-![MUI](https://img.shields.io/badge/Material%20UI-3591f8?style=for-the-badge&logo=mui&logoColor=77eaff)
-![Sass](https://img.shields.io/badge/Sass-fa5df8?style=for-the-badge&logo=sass&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-eeeff9?style=for-the-badge&logo=firebase&logoColor=ff9c27)
+![MUI](https://img.shields.io/badge/Material%20UI-eeeff9?style=for-the-badge&logo=mui&logoColor=309afc)
+![Sass](https://img.shields.io/badge/Sass-eeeff9?style=for-the-badge&logo=sass&logoColor=f887ff)
 
 ### I write in
 
@@ -33,7 +33,7 @@ Currently interested in interface design and artificial intelligence.
 
 <p align="left">
   <a href="https://yulian.codes"><img height="31" src="./assets/images/site-badge.png" style="float: left; margin-right: 4px" /></a>
-  <a href="https://www.linkedin.com/in/yulian-kraynyak/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="float: left" /></a>
+  <a href="https://www.linkedin.com/in/yulian-kraynyak/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=eeeff9" style="float: left" /></a>
 </p>
 
 <br/>
