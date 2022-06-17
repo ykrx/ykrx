@@ -12,6 +12,7 @@ Currently interested in interface design and artificial intelligence.
 ![Node.js](https://img.shields.io/badge/Node.js-292f37?style=for-the-badge&logo=nodedotjs&logoColor=afff6f)
 ![Firebase](https://img.shields.io/badge/firebase-292f37?style=for-the-badge&logo=firebase&logoColor=ffca28)
 ![MUI](https://img.shields.io/badge/Material%20UI-292f37?style=for-the-badge&logo=mui&logoColor=36a8ff)
+![Sass](https://img.shields.io/badge/Sass-292f37?style=for-the-badge&logo=sass&logoColor=ff85de)
 
 ### I write in
 
@@ -19,7 +20,6 @@ Currently interested in interface design and artificial intelligence.
 ![Javascript](https://img.shields.io/badge/JavaScript-292f37?style=for-the-badge&logo=javascript&logoColor=ffca28)
 ![Python](https://img.shields.io/badge/Python-292f37?style=for-the-badge&logo=python&logoColor=4b9cff)
 ![C++](https://img.shields.io/badge/C%2B%2B-292f37?style=for-the-badge&logo=c%2B%2B&logoColor=4bc6ff)
-![Sass](https://img.shields.io/badge/Sass-292f37?style=for-the-badge&logo=sass&logoColor=ff85de)
 
 ### I use
 
