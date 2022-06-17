@@ -43,7 +43,9 @@ Currently interested in interface design and artificial intelligence.
 <br/>
 <br/>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=ykray&color=292f37&style=for-the-badge)
+<a href="#">
+<img src="https://komarev.com/ghpvc/?username=ykray&color=292f37&style=for-the-badge"/>
+</a>
 
 <!--
 **ykray/ykray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
