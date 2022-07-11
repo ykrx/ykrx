@@ -11,7 +11,6 @@ Currently interested in interface design and artificial intelligence.
 ![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=4acc03)
 ![Express](https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=black)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=1464ae)
-![Azure](https://img.shields.io/badge/azure-ffffff?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6)
 ![Firebase](https://img.shields.io/badge/firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=f9be1d)
 ![MUI](https://img.shields.io/badge/Material%20UI-ffffff?style=for-the-badge&logo=mui&logoColor=309afc)
 ![Sass](https://img.shields.io/badge/Sass-ffffff?style=for-the-badge&logo=sass&logoColor=f887ff)
