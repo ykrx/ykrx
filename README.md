@@ -2,8 +2,7 @@
 
 <!-- <span style="padding-left: 7px;"></span> -->
 
-I'm Yulian, a web & mobile developer from NYC, pursuing an MS in Computer Science at New York University.<br/>
-Currently interested in interface design and artificial intelligence.
+I'm a software engineer based in NYC, pursuing an MS in Computer Science at NYU. I’m skilled with frontend and backend development, with a heavy (but healthy) interest in artificial intelligence and design.
 
 ### _I build with_
 
