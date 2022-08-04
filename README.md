@@ -10,7 +10,7 @@ I'm a software engineer based in NYC, pursuing an MS in Computer Science at NYU.
 ![Javascript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=f9be1d)
 ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=309afc)
 ![C++](https://img.shields.io/badge/C%2B%2B-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=309afc)
-![Java](https://img.shields.io/badge/C%2B%2B-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=309afc)
+![Java](https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=309afc)
 
 ### _I build with_
 
