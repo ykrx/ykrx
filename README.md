@@ -4,6 +4,14 @@
 
 I'm a software engineer based in NYC, pursuing an MS in Computer Science at NYU. I’m skilled in frontend and backend development, with a heavy (but healthy) interest in artificial intelligence and design.
 
+### _I write in_
+
+![Typescript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=309afc)
+![Javascript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=f9be1d)
+![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=309afc)
+![C++](https://img.shields.io/badge/C%2B%2B-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=309afc)
+![Java](https://img.shields.io/badge/C%2B%2B-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=309afc)
+
 ### _I build with_
 
 ![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=11b4c2)
@@ -13,13 +21,6 @@ I'm a software engineer based in NYC, pursuing an MS in Computer Science at NYU.
 ![Firebase](https://img.shields.io/badge/firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=f9be1d)
 ![MUI](https://img.shields.io/badge/Material%20UI-ffffff?style=for-the-badge&logo=mui&logoColor=309afc)
 ![Sass](https://img.shields.io/badge/Sass-ffffff?style=for-the-badge&logo=sass&logoColor=f887ff)
-
-### _I write in_
-
-![Typescript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=309afc)
-![Javascript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=f9be1d)
-![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=309afc)
-![C++](https://img.shields.io/badge/C%2B%2B-ffffff?style=for-the-badge&logo=c%2B%2B&logoColor=309afc)
 
 ### _I use_
 
