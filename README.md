@@ -4,6 +4,8 @@
 
 I'm a software engineer based in NYC, pursuing an MS in Computer Science at NYU. I’m skilled in frontend and backend development, with a heavy (but healthy) interest in artificial intelligence and UX design.
 
+---
+
 ### _I write in_
 
 TypeScript, JavaScript, Python, Java, C++
@@ -30,7 +32,6 @@ Photoshop, After Effects, Adobe XD, Sketch
 
 [in/yulian-kraynyak](https://www.linkedin.com/in/yulian-kraynyak)
 
-<br/>
 <br/>
 
 <a href="#">
