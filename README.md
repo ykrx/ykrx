@@ -22,7 +22,9 @@ Photoshop, After Effects, Adobe XD, Sketch
 
 **Terminal**: iTerm
 
-## _Find me on_
+---
+
+### _Find me on_
 
 [yulian.codes](https://yulian.codes)
 
