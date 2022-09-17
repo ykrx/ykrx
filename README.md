@@ -24,7 +24,9 @@ Photoshop, After Effects, Adobe XD, Sketch
 
 ## _Find me on_
 
-<a href="https://yulian.codes"><img height="29" src="./assets/images/site-badge.png" /></a>
+[yulian.codes](https://yulian.codes)
+
+[in/yulian-kraynyak](https://www.linkedin.com/in/yulian-kraynyak)
 
 <br/>
 <br/>
