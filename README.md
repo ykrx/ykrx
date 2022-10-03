@@ -20,7 +20,7 @@ Photoshop, After Effects, Adobe XD, Sketch
 
 ### _I use_
 
-**Editor**: VS Code, vim, and JetBrains IDEs
+**Editor**: VS Code, vim, JetBrains IDEs
 
 **Terminal**: iTerm
 
