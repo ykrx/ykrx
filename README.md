@@ -22,8 +22,6 @@ Photoshop, After Effects, Adobe XD, Sketch
 
 VS Code, JetBrains' IDEs **for coding, and** Obsidian **for note-taking**
 
-**Misc.**: iTerm
-
 ---
 
 ### Find me on
