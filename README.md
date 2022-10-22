@@ -2,31 +2,31 @@
 
 <!-- <span style="padding-left: 7px;"></span> -->
 
-I'm a software engineer based in NYC, completing my Masters in Computer Science at NYU. Skilled in frontend and backend development, with a heavy (but healthy) interest in artificial intelligence and UX design.
+I'm a software engineer based in NYC, completing a Masters in Computer Science at NYU. Skilled in frontend and backend development, with a heavy (but healthy) interest in artificial intelligence and UX design.
 
 ---
 
-### _I write in_
+### I write in
 
 TypeScript, JavaScript, Python, Java, C++
 
-### _I build with_
+### I build with
 
 React / React Native, Node.js, Express.js, Postgres, Firebase, Material UI, SCSS
 
-### _I design with_
+### I design with
 
 Photoshop, After Effects, Adobe XD, Sketch
 
-### _I use_
+### and currently vibin' with
 
-**Editor**: VS Code, Vim, JetBrains IDEs
+VS Code, Vim, JetBrains' IDEs **for coding, and** Obsidian **for note-taking**
 
-**Terminal**: iTerm
+**Misc.**: iTerm
 
 ---
 
-### _Find me on_
+### Find me on
 
 [yulian.codes](https://yulian.codes)
 
