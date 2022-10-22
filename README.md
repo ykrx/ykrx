@@ -18,7 +18,7 @@ React / React Native, Node.js, Express.js, Postgres, Firebase, Material UI, SCSS
 
 Photoshop, After Effects, Adobe XD, Sketch
 
-### and currently vibin' with
+### and currently vibe with
 
 VS Code, Vim, JetBrains' IDEs **for coding, and** Obsidian **for note-taking**
 
