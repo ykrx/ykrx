@@ -12,7 +12,7 @@ Photoshop, After Effects, Adobe XD, Sketch
 
 ### and currently vibe with
 
-VS Code, JetBrains' IDEs **for coding, and** Obsidian **for note-taking**
+VS Code **for coding, and** Obsidian **for note-taking**
 
 ---
 
