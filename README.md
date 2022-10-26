@@ -2,8 +2,6 @@
 
 <!-- <span style="padding-left: 7px;"></span> -->
 
-I'm a software engineer based in NYC, completing a Masters in Computer Science at NYU. Skilled in frontend and backend development, with a heavy (but healthy) interest in artificial intelligence and UX design.
-
 ---
 
 ### I write in
