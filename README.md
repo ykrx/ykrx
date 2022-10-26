@@ -1,6 +1,6 @@
 ### I write in
 
-TypeScript, JavaScript, Python, Java, C++
+TypeScript, Python, Java, C++
 
 ### I build with
 
