@@ -1,9 +1,3 @@
-[![Hello, I'm Yulian](/assets/images/header.png)](https://yulian.codes)
-
-<!-- <span style="padding-left: 7px;"></span> -->
-
----
-
 ### I write in
 
 TypeScript, JavaScript, Python, Java, C++
