@@ -10,17 +10,13 @@ React / React Native, Node.js, Express.js, Postgres, Firebase, Material UI, SCSS
 
 Photoshop, After Effects, Adobe XD, Sketch
 
-### and currently vibe with
+### and currently use
 
-VS Code **for coding, and** Obsidian **for note-taking**
+VS Code, Obsidian
 
 ---
 
-### Find me on
-
 [yulian.codes](https://yulian.codes)
-
-[in/yulian-kraynyak](https://www.linkedin.com/in/yulian-kraynyak)
 
 <br/>
 
