@@ -10,8 +10,6 @@ Hobbies:                Music Production, Digital Art, Drawing, Chess
 Tools:                  Visual Studio Code, Obsidian
 ```
 
----
-
 [yulian.codes](https://yulian.codes)
 
 <a href="#">
