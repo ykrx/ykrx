@@ -1,24 +1,18 @@
-### I write in
-
-TypeScript, Python, Java, C++
-
-### I build with
-
-React / React Native, Node.js, Express.js, Postgres, Firebase, Material UI, SCSS
-
-### I design with
-
-Photoshop, After Effects, Adobe XD, Sketch
-
-### and currently use
-
-VS Code, Obsidian
+```yaml
+Name:                   Yulian Kraynyak
+Status:                 "Incoming SDE 1 at Amazon"
+Location:               Brooklyn, NY, USA
+Natural Languages:      English, Ukrainian
+Programming Languages:  TypeScript, JavaScript, Python, Java, C++
+Frameworks/Tech:        React.js, React Native, Node.js, Express.js, Postgres, Firebase, Material UI, SCSS
+Research Interests:     Artifical Intelligence, Sentiment Prediction, UX Design
+Hobbies:                Music Production, Digital Art, Drawing, Chess
+Tools:                  Visual Studio Code, Obsidian
+```
 
 ---
 
 [yulian.codes](https://yulian.codes)
-
-<br/>
 
 <a href="#">
 <img src="https://komarev.com/ghpvc/?username=ykray&color=0e1116&style=for-the-badge"/>
