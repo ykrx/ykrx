@@ -1,6 +1,6 @@
 ```yaml
 Name:                   Yulian Kraynyak
-Status:                 "Incoming SDE 1 at Amazon"
+Status:                 "Incoming SDE at Amazon"
 Location:               Brooklyn, NY, USA
 Natural Languages:      English, Ukrainian
 Programming Languages:  TypeScript, JavaScript, Python, Java, C++
