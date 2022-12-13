@@ -5,7 +5,7 @@ Location:               Brooklyn, NY, USA
 Natural Languages:      English, Ukrainian
 Programming Languages:  TypeScript, JavaScript, Python, Java, C++
 Frameworks/Tech:        React.js, React Native, Node.js, Express.js, Postgres, Firebase, Material UI, SCSS
-Research Interests:     Artifical Intelligence, Sentiment Prediction, UX Design
+Research Interests:     Artifical Intelligence, Sentiment Prediction, UX
 Hobbies:                Music Production, Digital Art, Drawing, Chess
 Tools:                  Visual Studio Code, Obsidian
 ```
