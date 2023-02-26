@@ -1,11 +1,11 @@
 ```yaml
 Name:                   Yulian Kraynyak
 Status:                 "Incoming SDE at Amazon"
-Location:               Brooklyn, NY, USA
+Location:               Brooklyn, NY
 Natural Languages:      English, Ukrainian
 Programming Languages:  TypeScript, JavaScript, Python, Java, C++
-Frameworks/Tech:        React.js, React Native, Node.js, Express.js, Postgres, Firebase, Material UI, SCSS
-Research Interests:     Artificial Intelligence, Sentiment Prediction, UX
+Frameworks/Tech:        React.js, React Native, Redux, Node.js, Express.js, Postgres, Firebase
+Research Interests:     Artificial Intelligence, Sentiment Prediction, User Experience Design
 Hobbies:                Music Production, Digital Art, Drawing, Chess
 Tools:                  Visual Studio Code, Obsidian
 ```
