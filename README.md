@@ -1,13 +1,13 @@
 ```yaml
-Name:                   Yulian Kraynyak
-Status:                 "Incoming SDE at Amazon"
-Location:               Brooklyn, NY
-Natural Languages:      English, Ukrainian
-Programming Languages:  TypeScript, JavaScript, Python, Java, C++
-Frameworks/Tech:        React.js, React Native, Redux, Node.js, Express.js, Postgres, Firebase
-Research Interests:     Artificial Intelligence, Sentiment Prediction, User Experience Design
-Hobbies:                Music Production, Digital Art, Drawing, Chess
-Tools:                  Visual Studio Code, Obsidian
+name:                   Yulian Kraynyak
+status:                 "Incoming SDE at Amazon"
+school:                 NYU
+location:               Brooklyn, NY
+natural languages:      English, Ukrainian
+programming languages:  TypeScript, Python, Java, C++
+research interests:     AI, UX Design
+hobbies:                Music Production, Art, Chess
+tools:                  VS Code, Obsidian
 ```
 
 [yulian.codes](https://yulian.codes)
