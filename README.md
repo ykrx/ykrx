@@ -1,6 +1,6 @@
 ```yaml
 name:                   Yulian Kraynyak
-status:                 "Incoming @Amazon"
+status:                 "Incoming SDE @Amazon"
 school:                 NYU
 location:               Brooklyn, NY
 natural languages:      English, Ukrainian
