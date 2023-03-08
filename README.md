@@ -5,7 +5,7 @@ school:                 NYU
 location:               Brooklyn, NY
 natural languages:      English, Ukrainian
 programming languages:  TypeScript, Python, Java, C++
-research interests:     AI, UX Design
+research interests:     AI, UX
 hobbies:                Music Production, Art, Chess
 tools:                  VS Code, Obsidian
 ```
