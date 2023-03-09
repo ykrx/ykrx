@@ -1,13 +1,13 @@
 ```yaml
-name:                   Yulian Kraynyak
-status:                 "Incoming SDE @Amazon"
-school:                 NYU
-location:               Brooklyn, NY
-natural languages:      English, Ukrainian
+                 name:  Yulian Kraynyak
+               status:  "Incoming SDE @Amazon" 
+               school:  NYU
+             location:  Brooklyn, NY
+    natural languages:  English, Ukrainian
 programming languages:  TypeScript, Python, Java, C++
-research interests:     AI, UX
-hobbies:                Music Production, Art, Chess
-tools:                  VS Code, Obsidian
+   research interests:  AI, UX
+              hobbies:  Music Production, Art, Chess
+                tools:  VS Code, Obsidian
 ```
 
 [yulian.codes](https://yulian.codes)
