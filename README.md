@@ -1,8 +1,8 @@
 ```yaml
                        name:  Yulian Kraynyak
                      status:  "Incoming SDE @Amazon" 
-                     school:  NYU
-                   location:  Brooklyn, NY
+                  education:  MS CS @NYU
+                   location:  NYC
           natural languages:  English, Ukrainian
       programming languages:  TypeScript, Python, Java, C++
          research interests:  Frontend, UX Design, AI
