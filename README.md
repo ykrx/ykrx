@@ -5,7 +5,7 @@
                    location:  NYC
           natural languages:  English, Ukrainian
       programming languages:  TypeScript, Python, Java, C++
-         research interests:  Frontend, UX Design, AI
+         research interests:  Frontend, UX, AI
                     hobbies:  Music Production, Art, Chess
                       tools:  VS Code, Obsidian
 ```
