@@ -13,5 +13,5 @@ programming languages:  TypeScript, Python, Java, C++
 [yulian.codes](https://yulian.codes)
 
 <a href="#">
-<img src="https://komarev.com/ghpvc/?username=ykrx&color=0e1116&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ykray&color=0e1116&style=for-the-badge"/>
 </a>
