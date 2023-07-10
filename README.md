@@ -1,13 +1,13 @@
-```yaml
-                 name:  Yulian Kraynyak
-               status:  Software Engineer @Amazon
-            education:  MS CS @NYU
-             location:  Brooklyn, NY
-programming languages:  TypeScript, Python, Java, C++
-    natural languages:  English, Ukrainian
-   research interests:  UX, AI
-              hobbies:  Music Production, Chess, Digital Art
-                tools:  VSCode, Obsidian
+```properties
+              name = Yulian Kraynyak
+            status = Software Engineer @Amazon
+         education = MS CS @NYU
+          location = Brooklyn, NY
+         languages = TypeScript, Python, Java, C++
+ natural_languages = English, Ukrainian
+research_interests = UX, AI
+           hobbies = Music Production, Chess, Digital Art
+             tools = VSCode, Obsidian
 ```
 
 [yulian.codes](https://yulian.codes)
