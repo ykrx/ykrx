@@ -5,7 +5,7 @@
           location = Brooklyn, NY
          languages = TypeScript, Python, Java, C++
  natural_languages = English, Ukrainian
-research_interests = UX, AI
+research_interests = AI, UX
            hobbies = Music Production, Chess, Digital Art
              tools = VSCode, Obsidian
 ```
