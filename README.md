@@ -7,7 +7,7 @@
  natural_languages = English, Ukrainian
 research_interests = AI, UX
            hobbies = Music Production, Chess, Digital Art
-             tools = VSCode, Obsidian
+             tools = VSCode, Obsidian, tmux
 ```
 
 [yulian.codes](https://yulian.codes)
