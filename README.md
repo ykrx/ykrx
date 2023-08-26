@@ -1,6 +1,6 @@
 ```properties
               name = Yulian Kraynyak
-            status = Software Engineer @Amazon
+            status = SDE @Amazon
          education = MS CS @NYU
           location = Brooklyn, NY
          languages = TypeScript, Python, Java, C++
