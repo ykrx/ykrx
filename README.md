@@ -2,12 +2,12 @@
               name = Yulian Kraynyak
             status = SDE @Amazon
          education = MS CS @NYU
-          location = Brooklyn, NY
-         languages = TypeScript, Python, Java, C++
- natural_languages = English, Ukrainian
+          location = NYC
+         languages = typescript, python, java, c++
+ natural_languages = english, ukrainian
 research_interests = AI, UX
-           hobbies = Music Production, Chess, Digital Art
-             tools = VSCode, Obsidian, tmux
+           hobbies = edm production, digital art
+             tools = vscode, obsidian, neovim, tmux
 ```
 
 [yulian.codes](https://yulian.codes)
