@@ -3,11 +3,11 @@
             status = SDE @Amazon
          education = MS CS @NYU
           location = NYC
-         languages = typescript, python, java, c++
  natural_languages = english, ukrainian
+         languages = typescript, python, java, c++
+             tools = vscode, obsidian, neovim, tmux
 research_interests = AI, UX
            hobbies = EDM, drawing
-             tools = vscode, obsidian, neovim, tmux
 ```
 
 [yulian.codes](https://yulian.codes)
