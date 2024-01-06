@@ -6,7 +6,7 @@
          languages = typescript, python, java, c++
  natural_languages = english, ukrainian
 research_interests = AI, UX
-           hobbies = art, edm
+           hobbies = EDM, drawing
              tools = vscode, obsidian, neovim, tmux
 ```
 
