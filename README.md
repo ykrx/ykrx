@@ -1,4 +1,4 @@
-I am a software engineer with a love for design. Check out some of my work and art at [yulian.codes](https://yulian.codes)
+[yulian.codes](https://yulian.codes)
 
 ---
 
